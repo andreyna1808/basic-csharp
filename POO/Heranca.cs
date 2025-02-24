@@ -44,3 +44,9 @@ class Classe2 : Classe1
         Console.WriteLine("Construtor da classe 2");
     }
 }
+
+// Protected x sealed
+// Ambos são privados, porém no proteced as classes derivadas podem acessar
+
+// Get -> Leitura
+// Set -> Escrita / alteração
