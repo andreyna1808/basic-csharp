@@ -50,3 +50,5 @@ class Classe2 : Classe1
 
 // Get -> Leitura
 // Set -> Escrita / alteração
+
+// public int Algo { get; set; }
