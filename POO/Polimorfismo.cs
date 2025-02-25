@@ -21,3 +21,19 @@ class Mamiferos{}
 class Gato:Mamiferos{}
 class Cao:Mamiferos{}
 class Panda:Mamiferos{}
+
+// Abstract 
+// É um metodo (função) vazia e sem implementação
+// Serve como modelo para as demais
+
+// Interface
+// São classes que possuem o prototipo de um método
+// Define regras e conteudos
+
+public interface IAlgumaCoisa {
+    void Metodo();
+    Int Propriedade { get; set; }
+    String Propriedade2 { get; }
+    boolean Propriedade3 { get; set; }
+
+}
